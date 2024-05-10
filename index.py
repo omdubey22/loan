@@ -1,1 +1,1 @@
-from wsgi improt app
+from wsgi import app
